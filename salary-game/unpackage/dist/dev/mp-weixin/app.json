@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/result/result",
+    "pages/lottery/lottery",
+    "pages/index/adUrl"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wx9188524557398958",
+    "wx59108e780bac5b1d"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "请求获取你的定位"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap91.json"
+}

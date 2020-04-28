@@ -1,0 +1,36 @@
+
+.content-bg {
+	/* position: relative;
+	z-index: -1; */
+	width: 750rpx;
+	height: 1470rpx;
+}
+.content {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.in-content {
+	width: 750rpx;
+	padding-bottom: 25rpx;
+	background-size: cover;
+	position: absolute;
+}
+.change-tip {
+	position: fixed;
+	left: 50%;
+	bottom: 20px;
+	-webkit-transform: translate(-50%, 0);
+	        transform: translate(-50%, 0);
+}
+

@@ -1,0 +1,1 @@
+<view class="main data-v-c3977c6a"><view data-event-opts="{{[['tap',[['copyBtn',['$event']]]]]}}" class="copy-btn btn data-v-c3977c6a" bindtap="__e">保存到手机</view><view data-event-opts="{{[['tap',[['againBtn',['$event']]]]]}}" class="again-btn btn data-v-c3977c6a" bindtap="__e">再测一次</view></view>

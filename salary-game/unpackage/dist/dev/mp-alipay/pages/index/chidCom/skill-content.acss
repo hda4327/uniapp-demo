@@ -1,0 +1,48 @@
+
+.skill-content.data-v-0b75939a{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	padding: 30rpx 40rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 160rpx;
+	/* height: 250rpx; */
+}
+.tip.data-v-0b75939a{
+	font-size:32rpx;
+	font-weight:500;
+	color:rgba(255,255,255,1);
+}
+.item.data-v-0b75939a{
+	width:200rpx;
+	height:65rpx;
+	background:rgba(255,255,255,1);
+	border-radius:33rpx;
+	
+	font-size:26rpx;
+	font-weight:400;
+	color:rgba(0,113,188,1);
+	line-height: 65rpx;
+	text-align: center;
+	position: relative;
+}
+.active.data-v-0b75939a{
+	background: rgba(109,196,255,1);
+	color: rgba(255,255,255,1);
+}
+.selected-item.data-v-0b75939a{
+	width: 31rpx;
+	height: 31rpx;
+	position: absolute;
+	right: -12rpx;
+	top: 17rpx;
+}
+
+

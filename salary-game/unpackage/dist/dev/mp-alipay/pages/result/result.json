@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "邻牙-口腔行业测年薪",
+  "usingComponents": {
+    "draw-to-canvas": "/components/drawToCanvas/DrawToCanvas",
+    "confirm-btn": "/components/confirm-btn",
+    "two-btn": "/pages/result/childCom/two-btn",
+    "advertisement": "/components/advertisement"
+  }
+}

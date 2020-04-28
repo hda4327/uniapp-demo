@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "邻牙-口腔行业测年薪",
+  "usingComponents": {
+    "lottery-com": "/components/sherpa-jiugongge/sherpa-jiugongge",
+    "modal": "/components/modal/Modal",
+    "confirm-btn": "/components/confirm-btn",
+    "record-show": "/pages/lottery/childCom/record-show",
+    "advertisement": "/components/advertisement",
+    "lottery-modal": "/components/modal/Modal"
+  }
+}

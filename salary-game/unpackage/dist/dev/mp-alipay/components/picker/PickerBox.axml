@@ -1,0 +1,1 @@
+<view class="picker-item _div"><block a:if="{{$slots.default}}"><slot></slot></block><block a:else><picker mode="selector" range="{{pickList}}" range-key="{{pickKey}}" data-event-opts="{{[['change',[['handlerChange',['$event']]]]]}}" onChange="__e"><label class="title _span">{{pickTitle}}</label><image class="pull-down _img" src="{{$root.m0}}"></image></picker></block></view>

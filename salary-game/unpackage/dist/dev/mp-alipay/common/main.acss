@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+uni-image{
+	display: inline
+}
+button::after{
+	border: none;
+}
+

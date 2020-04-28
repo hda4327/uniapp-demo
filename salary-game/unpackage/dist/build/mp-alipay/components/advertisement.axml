@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['toOtherPage',['$event']]]]]}}" class="main data-v-8dcbdc1a" style="{{'border:'+(hasBorder?'6rpx solid rgba(109,196,255,1)':'')+';'+('width:'+(hasBorder?'738rpx':'100%')+';')}}" onTap="__e"><image class="advertisement-img data-v-8dcbdc1a" src="{{bg}}" alt></image></view>

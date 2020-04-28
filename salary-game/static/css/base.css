@@ -1,0 +1,85 @@
+.index-btn1{
+	background:url('../img/res-btn1.png');
+	background-size: 100% 100%;
+}
+.index-btn2{
+	background:url('../img/res-btn2.png');
+	background-size: 100% 100%;
+}
+
+.lot-btn1{
+	background:url('../img/lottery-btn1.png');
+	background-size: 100% 100%;
+}
+.lot-btn2{
+	background:url('../img/lottery-btn2.png');
+	background-size: 100% 100%;
+}
+
+.contract{
+	background:url('../img/person.png');
+	background-size: 100% 100%;
+	width: 30rpx;
+	height: 44rpx;
+	margin-left: 20rpx;
+}
+
+.lottery-tip{
+	background:url('../img/lottery-tip.png');background-size: 100% 100%;
+}
+
+.confirm-btn {
+		/* height: 113rpx;
+	width: 715rpx; */
+		text-align: center;
+
+		font-weight: 400;
+
+		margin: auto;
+		/* background-position-y: -1px; */
+		display: flex;
+		line-height: 45px;
+
+	}
+
+	.btn-left,
+	.btn-right {
+		width: 372rpx;
+		height: 121rpx;
+		color: rgba(255, 255, 255, 1);
+		text-align: center;
+		font-size: 30rpx;
+	}
+	/* .btn-right image{
+		width: 372rpx;
+		height: 121rpx;
+	}
+ */
+	.btn-left {
+
+		margin-right: -12rpx;
+		display: flex;
+		align-items: center;
+		/* justify-content: space-around; */
+
+	}
+
+	.btn-left .person-img {
+		width: 30rpx;
+		height: 44rpx;
+		/* position: relative; */
+		/* left: 58rpx; */
+		margin-left: 40rpx;
+
+	}
+
+	.btn-left .left-text {
+		margin-left: 18rpx;
+	}
+
+	.btn-right {
+		font-weight: 600;
+		margin-left: -18rpx;
+		line-height: 121rpx;
+
+	}
